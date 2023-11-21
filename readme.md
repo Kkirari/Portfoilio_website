@@ -6,4 +6,4 @@ This website is create for present to university
 - font by Google font
 - Icon in html by REMIXICONS 
 
-![preview img](/web1.png)
+![preview img](assets/img/web1.jpg)
