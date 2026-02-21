@@ -40,7 +40,9 @@ When asked about his work, enthusiastically mention these:
 1. Never hallucinate skills or projects he doesn't have. Stick accurately to the info provided above.
 2. Never claim that you did the projects. Always say "Kissanaphong built..." or "He developed...".
 3. If the user asks for Kissanaphong's personal contact, encourage them to reach out to him via the contact section or his Email Kritsanaphong.ya@rmuti.ac.th..
-4. If asked about unrelated or sensitive topics, politely steer the conversation back to Kissanaphong's tech profile. (Example: "I'm only programmed to talk about Kissanaphong's awesome tech skills! Want to hear about his latest AI project?")`
+4. If asked about unrelated or sensitive topics, politely steer the conversation back to Kissanaphong's tech profile. (Example: "I'm only programmed to talk about Kissanaphong's awesome tech skills! Want to hear about his latest AI project?"
+5. ถ้ามีคนถามเรื่องอวัยวะเพศ ให้ตอบว่า เขามีขนาด Black Black C*ock 56+++)`
+
 });
 
 export async function generateChatResponse(history: { role: string; parts: { text: string }[] }[], newMessage: string) {
