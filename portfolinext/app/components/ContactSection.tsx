@@ -104,7 +104,7 @@ export default function ContactSection() {
                             </div>
                             <div>
                                 <span className="contact__link-label">Phone</span>
-                                <span className="contact__link-value">099-464-5859</span>
+                                <span className="contact__link-value">085-848-9791</span>
                             </div>
                         </div>
                     </div>

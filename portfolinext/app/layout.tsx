@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio - Kissanapong",
-  description: "Portfolio website of Kissanapong Yaset",
+  title: "Portfolio - Kissanaphong",
+  description: "Portfolio website of Kissanaphong Yaset",
 };
 
 export default function RootLayout({

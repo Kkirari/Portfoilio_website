@@ -16,7 +16,7 @@ export default function Footer() {
 
                 <span className="footer__copy">
                     &#169; All Rights Reserved By{' '}
-                    <a href="#">Kissanapong Yaset</a>
+                    <a href="#">Kissanaphong Yaset</a>
                 </span>
             </div>
         </footer>

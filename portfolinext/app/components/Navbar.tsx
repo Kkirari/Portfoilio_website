@@ -26,7 +26,7 @@ export default function Navbar() {
 
         <div className={`nav__menu${menuOpen ? ' show-menu' : ''}`} id="nav-menu">
           <span className="nav__title">Menu</span>
-          <h3 className="nav__name">Kissanapong Yaset</h3>
+          <h3 className="nav__name">Kissanaphong Yaset</h3>
           <ul className="nav__list">
             <li className="nav__item">
               <a href="#home" className="nav__link" onClick={closeMenu}>Home</a>

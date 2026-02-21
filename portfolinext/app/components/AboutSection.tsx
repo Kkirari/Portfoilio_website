@@ -35,8 +35,8 @@ export default function AboutSection() {
                 >
                     <div className="about__image">
                         <Image
-                            src="/imgs/DSC_0531.JPG"
-                            alt="About Kissanapong"
+                            src="/imgs/IMG_18321.JPG"
+                            alt="About Kissanaphong"
                             className="about__img"
                             width={350}
                             height={450}

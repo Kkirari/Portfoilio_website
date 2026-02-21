@@ -3,6 +3,7 @@
 import Image from 'next/image'
 import { useState, useRef, useEffect } from 'react'
 import { motion, Variants } from 'framer-motion'
+import ReactMarkdown from 'react-markdown'
 
 type Message = {
     from: 'user' | 'bot'
@@ -158,7 +159,9 @@ export default function HomeSection() {
                                             <i className="ri-robot-2-line"></i>
                                         </div>
                                     )}
-                                    <div className="chatbot__bubble-text">{msg.text}</div>
+                                    <div className="chatbot__bubble-text">
+                                        <ReactMarkdown>{msg.text}</ReactMarkdown>
+                                    </div>
                                 </div>
                             ))}
                             {isLoading && (
